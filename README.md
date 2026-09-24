@@ -187,7 +187,6 @@ The system should preserve the separate microphone channels.
 ## 6.2 Signal Preprocessing
 
 Raw microphone input can contain:
-
 - Fan noise
 - Keyboard noise
 - Speech
@@ -195,7 +194,6 @@ Raw microphone input can contain:
 - Air-conditioning noise
 - Environmental sounds
 - Electrical noise
-
 The preprocessing module prepares the signal for tap detection.
 
 ### Processing pipeline

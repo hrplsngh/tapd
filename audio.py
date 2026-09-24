@@ -5,7 +5,6 @@ import time
 sample_rate = 44100
 channels = 2
 block_size=1024
-
 tap_threshold = 0.08
 direction_threshold=0.20
 cooldown=0.25
